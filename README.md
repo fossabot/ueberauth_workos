@@ -3,6 +3,7 @@
 [![Hex.pm](https://img.shields.io/hexpm/v/ueberauth_workos)](https://hex.pm/packages/ueberauth_workos)
 [![Documentation](https://img.shields.io/badge/hex-docs-blue)](https://hexdocs.pm/ueberauth_workos)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fueberauth_workos.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fueberauth_workos?ref=badge_shield)
 
 Ueberauth strategy for integrating with WorkOS Single Sign-On
 
@@ -76,3 +77,6 @@ For detailed instructions, see [Getting Started](guides/getting-started.md).
 ## License
 
 Please see [LICENSE](LICENSE) for licensing details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fueberauth_workos.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fueberauth_workos?ref=badge_large)
